@@ -2,6 +2,8 @@
 
 一款 macOS 启动器，采用 iOS 27 风格的液态玻璃（Liquid Glass）界面，主打流畅原生的拖拽体验与智能应用分组。
 
+🌐 **在线演示 / Live Demo**：[https://novalaunch.pages.dev/](https://novalaunch.pages.dev/)
+
 ## 功能特性
 
 - **液态玻璃 UI**：iOS 27 动态玻璃质感，分层玻璃背景、呼吸动画、药丸形控件与景深阴影。
