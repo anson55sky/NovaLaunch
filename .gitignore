@@ -1,0 +1,48 @@
+# ---------- Build products ----------
+NovaLaunch.app/
+*.app/
+build/
+DerivedData/
+
+# ---------- SwiftPM ----------
+.build/
+.swiftpm/xcode/
+
+# ---------- Xcode intermediates ----------
+*.hmap
+*.ipa
+*.xcarchive
+*.swiftdeps
+*.swiftsourceinfo
+*.swiftdoc
+*.swiftmodule
+*.pcm
+*.o
+*.dia
+*.stringsdata
+*.d
+*.modules
+
+# ---------- Archives / disk images ----------
+*.dmg
+
+# ---------- macOS cruft ----------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ---------- Agent / IDE workspaces ----------
+.workbuddy/
+.codebuddy/
+
+# ---------- Xcode user data ----------
+xcuserdata/
+*.xccheckout
+*.moved-aside
+
+# ---------- One-off maintenance scripts (not part of the product) ----------
+*.py
+appcast.json
+
+# ---------- Xcode project backups ----------
+*.bak
